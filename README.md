@@ -11,7 +11,7 @@ A simple Android app for managing curriculum activities and tracking student att
   - **Activities** screen
   - **Attendance** screen
 
-<img src="images/home_screen.png" alt="Home Screen" width="600"/>
+<img src="images/home_screen.png" alt="Home Screen" width="295"/>
 
 ### Activities Management
 - View a list of curriculum activities (e.g., Mathematics, Science, English).
@@ -23,7 +23,7 @@ A simple Android app for managing curriculum activities and tracking student att
   - Enter **title** and **description** in a dialog.
   - New activity automatically gets the current date.
 
-<img src="images/activities_screen.png" alt="Activities Screen" width="600"/>
+<img src="images/activities_screen.png" alt="Activities Screen" width="295"/>
 
 ### Attendance Tracking
 - Select an activity using radio buttons at the top.
@@ -40,7 +40,7 @@ A simple Android app for managing curriculum activities and tracking student att
 - **Average attendance per student**:
   - For each student, shows their overall attendance average (percentage) across all recorded sessions and activities.
 
-<img src="images/attendance_screen.png" alt="Attendance Screen" width="600"/>
+<img src="images/attendance_screen.png" alt="Attendance Screen" width="295"/>
 
 ---
 
