@@ -23,7 +23,7 @@ A simple Android app for managing curriculum activities and tracking student att
   - Enter **title** and **description** in a dialog.
   - New activity automatically gets the current date.
 
-<img src="images/activities_screen.png" alt="Activities Screen" width="295"/>
+<img src="images/activities_screen.png" alt="Activities Screen" width="500"/>
 
 ### Attendance Tracking
 - Select an activity using radio buttons at the top.
